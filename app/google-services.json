@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727544956978",
+    "firebase_url": "https://vsu-v2.firebaseio.com",
+    "project_id": "vsu-v2",
+    "storage_bucket": "vsu-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727544956978:android:4dedc2315df11c4d",
+        "android_client_info": {
+          "package_name": "ru.vsu.uniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727544956978-srb37heirhm81avtqlvlp3bc97vfdpjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTjODTi42q5pwkHyojN5njjoE1yPuRWfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
